@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xin Xin and my friends also call me Catherine
-- 👀 I’m interested in UX design and currently looking for an UX design intership
-- 🌱 I’m currently learning Computer Science and Business @San Jose State University
+- 👀 I’m currently looking for a fulltime poduct/ software developer job
+- 🌱 Recently graduated from San José State University with a B.S. degree in Computer Science and Business
 - 📫 Reach me at catherinxxz@gmail.com
 
 <!---

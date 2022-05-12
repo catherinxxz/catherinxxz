@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xin Xin and my friends also call me Catherine
-- 👀 I’m currently looking for a fulltime poduct/ software developer job
+- 👀 I’m currently looking for a fulltime poduct design / software developer job
 - 🌱 Recently graduated from San José State University with a B.S. degree in Computer Science and Business
 - 📫 Reach me at catherinxxz@gmail.com
 
